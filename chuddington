@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My First Website</title>
+</head>
+<body>
+
+  <h1>Hello! I'm Terrell 👋</h1>
+  <p>Welcome to my first website!</p>
+
+  <h2>About Me</h2>
+  <p>I like math, computers, and learning new things.</p>
+
+  <h2>My Favorite Things</h2>
+  <ul>
+    <li>Games 🎮</li>
+    <li>Technology 💻</li>
+    <li>Learning 📚</li>
+  </ul>
+
+</body>
+</html>
